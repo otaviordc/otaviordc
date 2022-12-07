@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @otaviordc
 - 👀 I’m interested in be front end developer
-- 💞️ I’m looking to collaborate on projects that use HTML5, CSS3, Javascript,REACT,RUST,NODE.
+- 💞️ I’m looking to collaborate on projects that use HTML5, CSS3, Javascript,REACT,REACT NATIVE,RUST,NODE
 - 📫 Linkedin
   [LinkedIn](https://www.linkedin.com/in/ot%C3%A1vio-ribeiro-de-castro-145801a7/)
 <!---
